@@ -1,5 +1,4 @@
 # Polysemous Words Quiz
-Quiztime
 
 
 
@@ -34,6 +33,8 @@ In British usage, “boot” refers to the car’s storage compartment. Slamming
 
 
 
+
+
 2\. The **bill** was passed unanimously in Parliament.
 
 \- A restaurant receipt
@@ -51,6 +52,8 @@ C) A proposed law
 Within a parliamentary context, “bill” is the formal term for a draft law under debate, not a receipt or currency.
 
 </details>
+
+
 
 
 
@@ -78,6 +81,8 @@ In the UK, “to give someone a ring” means to telephone them, rather than to 
 
 
 
+
+
 4\. The **pitch** was too muddy to play on, so they all went indoors and drank tea and ate biscuits. 
 
 \- A sales presentation
@@ -95,6 +100,8 @@ C) A sports field
 In British English, “pitch” denotes the playing surface for sports like football and cricket, which can become muddy.
 
 </details>
+
+
 
 
 
@@ -122,6 +129,8 @@ To “draw” a weapon means to pull it from its sheath, a standard idiom in com
 
 
 
+
+
 6\. The **match** was postponed due to rain. This is why a single cricket match can last for two weeks.
 
 \- A fire-lighting stick
@@ -139,6 +148,8 @@ C) A sports game
 Outdoor sports fixtures are called matches in the UK; rain delays commonly affect them.
 
 </details>
+
+
 
 
 
@@ -166,6 +177,8 @@ The phrase “a spring in one’s step” describes an energetic, bouncy walk, n
 
 
 
+
+
 8\. They had a loud **row** in the middle of the street. The police were called. Tasers were used to the joy of the neighbours.
 
 \- A line of people
@@ -186,6 +199,8 @@ A British “row” (pronounced ‘r-ow’) is a loud dispute, fitting the noisy
 
 
 
+
+
 9\. The **seal** on the envelope was broken.
 
 \- A marine animal
@@ -201,6 +216,8 @@ B) A stamp or closure
 Breaking a seal refers to opening an envelope’s glued or waxed closure, not disturbing an animal.
 
 </details>
+
+
 
 
 
@@ -230,6 +247,8 @@ Failing to settle a penalty incurs another fine—here “fine” clearly means 
 
 
 
+
+
 11\. The **bank** was eroded after the heavy rain.
 
 \- A financial institution
@@ -247,6 +266,8 @@ B) A slope beside a river
 Erosion of soil indicates a riverbank, not a branch of a bank institution.
 
 </details>
+
+
 
 
 
@@ -274,6 +295,8 @@ In informal British usage, “to can” something means to drop or cancel it, no
 
 
 
+
+
 13\. He got his wife a **rock** for her anniversary. He got a bowl of cornflakes.
 
 \- A stone
@@ -291,6 +314,8 @@ B) A gemstone ring
 “Rock” is slang for a diamond ring, appropriate in an anniversary context.
 
 </details>
+
+
 
 
 
@@ -315,6 +340,8 @@ C) Gentle
 Describing a breeze as “light” indicates it’s gentle, not referring to weight or colour.
 
 </details>
+
+
 
 
 
