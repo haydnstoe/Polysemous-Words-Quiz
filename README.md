@@ -21,6 +21,8 @@ How to Use
 
 \- A kick
 
+
+
 <details><summary>SHOW</summary>
 
 B) The back of a car
@@ -44,6 +46,8 @@ In British usage, “boot” refers to the car’s storage compartment. Slamming
 \- A proposed law
 
 \- A paper banknote
+
+
 
 <details><summary>SHOW</summary>
 
@@ -69,6 +73,8 @@ Within a parliamentary context, “bill” is the formal term for a draft law un
 
 \- A sound made by a bell
 
+
+
 <details><summary>SHOW</summary>
 
 B) A phone call
@@ -93,6 +99,8 @@ In the UK, “to give someone a ring” means to telephone them, rather than to 
 
 \- A sticky, black, substance
 
+
+
 <details><summary>SHOW</summary>
 
 C) A sports field
@@ -116,6 +124,8 @@ In British English, “pitch” denotes the playing surface for sports like foot
 \- End in a tie
 
 \- Absorb, suck out a liquid (blood, but not by vampires)
+
+
 
 <details><summary>SHOW</summary>
 
@@ -143,6 +153,8 @@ To “draw” a weapon means to pull it from its sheath, a standard idiom in com
 
 <details><summary>SHOW</summary>
 
+
+
 C) A sports game
 
 Outdoor sports fixtures are called matches in the UK; rain delays commonly affect them.
@@ -164,6 +176,8 @@ Outdoor sports fixtures are called matches in the UK; rain delays commonly affec
 \- A leap or bounce
 
 \- A water source
+
+
 
 <details><summary>SHOW</summary>
 
@@ -187,6 +201,8 @@ The phrase “a spring in one’s step” describes an energetic, bouncy walk, n
 
 \- To move a boat through water using oars
 
+
+
 <details><summary>SHOW</summary>
 
 C) An argument
@@ -208,6 +224,8 @@ A British “row” (pronounced ‘r-ow’) is a loud dispute, fitting the noisy
 \- A stamp or closure
 
 \- A type of wax (sealing)
+
+
 
 <details><summary>SHOW</summary>
 
@@ -235,6 +253,8 @@ Breaking a seal refers to opening an envelope’s glued or waxed closure, not di
 
 \- A small detail
 
+
+
 <details><summary>SHOW</summary>
 
 A) A monetary penalty
@@ -258,6 +278,8 @@ Failing to settle a penalty incurs another fine—here “fine” clearly means 
 \- A place to store data
 
 \- A bench
+
+
 
 <details><summary>SHOW</summary>
 
@@ -283,6 +305,8 @@ Erosion of soil indicates a riverbank, not a branch of a bank institution.
 
 \- Packaging (n) (often Aluminium) for food and drinks
 
+
+
 <details><summary>SHOW</summary>
 
 B) Cancel it
@@ -306,6 +330,8 @@ In informal British usage, “to can” something means to drop or cancel it, no
 \- A style of popular music
 
 \- A mountain
+
+
 
 <details><summary>SHOW</summary>
 
@@ -333,6 +359,8 @@ B) A gemstone ring
 
 \- The movement of photons
 
+
+
 <details><summary>SHOW</summary>
 
 C) Gentle
@@ -356,6 +384,8 @@ Describing a breeze as “light” indicates it’s gentle, not referring to wei
 \- A trend
 
 \- The flow of electrons, or some other form of energy, through a conductor
+
+
 
 <details><summary>SHOW</summary>
 
