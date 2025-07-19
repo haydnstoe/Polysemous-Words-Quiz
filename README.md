@@ -1,7 +1,3 @@
-# Polysemous Words Quiz
-
-
-
 
 How to Use
 
@@ -14,6 +10,7 @@ How to Use
 
 
 1\. He put the groceries in the **boot** and slammed it shut and ended up in A&E with a broken finger.
+
 
 \- A type of shoe
 
@@ -29,6 +26,8 @@ B) The back of a car
 
 In British usage, “boot” refers to the car’s storage compartment. Slamming it shut after loading groceries fits this meaning.
 
+
+
 </details>
 
 
@@ -38,6 +37,7 @@ In British usage, “boot” refers to the car’s storage compartment. Slamming
 
 
 2\. The **bill** was passed unanimously in Parliament.
+
 
 \- A restaurant receipt
 
@@ -51,6 +51,7 @@ In British usage, “boot” refers to the car’s storage compartment. Slamming
 
 <details><summary>SHOW</summary>
 
+
 C) A proposed law
 
 Within a parliamentary context, “bill” is the formal term for a draft law under debate, not a receipt or currency.
@@ -63,7 +64,8 @@ Within a parliamentary context, “bill” is the formal term for a draft law un
 
 
 
-3\. She gave me a **ring** just before lunch. 
+3\. She gave me a **ring** just before lunch.
+
 
 \- A circular piece of jewellery
 
@@ -77,9 +79,11 @@ Within a parliamentary context, “bill” is the formal term for a draft law un
 
 <details><summary>SHOW</summary>
 
+
 B) A phone call
 
 In the UK, “to give someone a ring” means to telephone them, rather than to hand over jewellery.
+
 
 </details>
 
@@ -90,6 +94,7 @@ In the UK, “to give someone a ring” means to telephone them, rather than to 
 
 
 4\. The **pitch** was too muddy to play on, so they all went indoors and drank tea and ate biscuits. 
+
 
 \- A sales presentation
 
@@ -102,6 +107,7 @@ In the UK, “to give someone a ring” means to telephone them, rather than to 
 
 
 <details><summary>SHOW</summary>
+
 
 C) A sports field
 
@@ -117,6 +123,7 @@ In British English, “pitch” denotes the playing surface for sports like foot
 
 5\. He had to **draw** his sword quickly.
 
+
 \- Sketch
 
 \- Pull out
@@ -129,9 +136,11 @@ In British English, “pitch” denotes the playing surface for sports like foot
 
 <details><summary>SHOW</summary>
 
+
 B) Pull out
 
 To “draw” a weapon means to pull it from its sheath, a standard idiom in combat contexts.
+
 
 </details>
 
@@ -143,6 +152,7 @@ To “draw” a weapon means to pull it from its sheath, a standard idiom in com
 
 6\. The **match** was postponed due to rain. This is why a single cricket match can last for two weeks.
 
+
 \- A fire-lighting stick
 
 \- A romantic partner
@@ -151,6 +161,7 @@ To “draw” a weapon means to pull it from its sheath, a standard idiom in com
 
 \- A similarity
 
+
 <details><summary>SHOW</summary>
 
 
@@ -158,6 +169,7 @@ To “draw” a weapon means to pull it from its sheath, a standard idiom in com
 C) A sports game
 
 Outdoor sports fixtures are called matches in the UK; rain delays commonly affect them.
+
 
 </details>
 
@@ -168,6 +180,7 @@ Outdoor sports fixtures are called matches in the UK; rain delays commonly affec
 
 
 7\. The **spring** in her step was obvious. She had just discovered where the firm had hidden the toilets, printers, and coffee machine.
+
 
 \- A coiled, flexible, metal device
 
@@ -181,6 +194,7 @@ Outdoor sports fixtures are called matches in the UK; rain delays commonly affec
 
 <details><summary>SHOW</summary>
 
+
 C) A leap or bounce
 
 The phrase “a spring in one’s step” describes an energetic, bouncy walk, not the season or a metal coil here.
@@ -193,7 +207,9 @@ The phrase “a spring in one’s step” describes an energetic, bouncy walk, n
 
 
 
+
 8\. They had a loud **row** in the middle of the street. The police were called. Tasers were used to the joy of the neighbours.
+
 
 \- A line of people
 
@@ -205,9 +221,11 @@ The phrase “a spring in one’s step” describes an energetic, bouncy walk, n
 
 <details><summary>SHOW</summary>
 
+
 C) An argument
 
 A British “row” (pronounced ‘r-ow’) is a loud dispute, fitting the noisy street context.
+
 
 </details>
 
@@ -219,6 +237,7 @@ A British “row” (pronounced ‘r-ow’) is a loud dispute, fitting the noisy
 
 9\. The **seal** on the envelope was broken.
 
+
 \- A marine animal
 
 \- A stamp or closure
@@ -229,9 +248,11 @@ A British “row” (pronounced ‘r-ow’) is a loud dispute, fitting the noisy
 
 <details><summary>SHOW</summary>
 
+
 B) A stamp or closure
 
 Breaking a seal refers to opening an envelope’s glued or waxed closure, not disturbing an animal.
+
 
 </details>
 
@@ -241,7 +262,8 @@ Breaking a seal refers to opening an envelope’s glued or waxed closure, not di
 
 
 
-10\. He was fined for not paying the **fine**. He was not fine about this at all
+10\. He was fined for not paying the **fine**. He was not fine about this at all.
+
 
 \- A monetary penalty
 
@@ -257,9 +279,11 @@ Breaking a seal refers to opening an envelope’s glued or waxed closure, not di
 
 <details><summary>SHOW</summary>
 
+
 A) A monetary penalty
 
 Failing to settle a penalty incurs another fine—here “fine” clearly means a financial punishment.
+
 
 </details>
 
@@ -270,6 +294,7 @@ Failing to settle a penalty incurs another fine—here “fine” clearly means 
 
 
 11\. The **bank** was eroded after the heavy rain.
+
 
 \- A financial institution
 
@@ -283,9 +308,11 @@ Failing to settle a penalty incurs another fine—here “fine” clearly means 
 
 <details><summary>SHOW</summary>
 
+
 B) A slope beside a river
 
 Erosion of soil indicates a riverbank, not a branch of a bank institution.
+
 
 </details>
 
@@ -296,6 +323,7 @@ Erosion of soil indicates a riverbank, not a branch of a bank institution.
 
 
 12\. She had to **can** the project due to the lack of interest and funding. It was also based on a stupid idea :-( 
+
 
 \- Preserve it (v)
 
@@ -309,9 +337,11 @@ Erosion of soil indicates a riverbank, not a branch of a bank institution.
 
 <details><summary>SHOW</summary>
 
+
 B) Cancel it
 
 In informal British usage, “to can” something means to drop or cancel it, not to preserve.
+
 
 </details>
 
@@ -322,6 +352,7 @@ In informal British usage, “to can” something means to drop or cancel it, no
 
 
 13\. He got his wife a **rock** for her anniversary. He got a bowl of cornflakes.
+
 
 \- A stone
 
@@ -335,9 +366,11 @@ In informal British usage, “to can” something means to drop or cancel it, no
 
 <details><summary>SHOW</summary>
 
+
 B) A gemstone ring
 
 “Rock” is slang for a diamond ring, appropriate in an anniversary context.
+
 
 </details>
 
@@ -348,6 +381,7 @@ B) A gemstone ring
 
 
 14\. The **light** breeze cooled the room.
+
 
 \- Not heavy
 
@@ -363,9 +397,11 @@ B) A gemstone ring
 
 <details><summary>SHOW</summary>
 
+
 C) Gentle
 
 Describing a breeze as “light” indicates it’s gentle, not referring to weight or colour.
+
 
 </details>
 
@@ -376,6 +412,7 @@ Describing a breeze as “light” indicates it’s gentle, not referring to wei
 
 
 15\. The **current** was too strong for swimming.
+
 
 \- Happening now
 
@@ -389,7 +426,9 @@ Describing a breeze as “light” indicates it’s gentle, not referring to wei
 
 <details><summary>SHOW</summary>
 
+
 B) A flow of water
+
 
 Water currents can create dangerous flows for swimmers; the temporal sense doesn’t fit here.
 
